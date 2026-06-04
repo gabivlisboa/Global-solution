@@ -183,10 +183,7 @@ body {
   color: var(--text);
 }
 
-.perfil-icon {
-  width: 56px;
-  height: 56px;
-}
+
 
 /* Seleção de estado */
 .estado-row {
