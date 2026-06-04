@@ -9,7 +9,7 @@
 :root {
   --green:       #187B0F;
   --green-dark:  #187B0f;
-  --green-light: #E1F5EE;
+  --green-light: #CAEDD5;
   --bg:          #DCFCE7;
   --bg-alt:      #eaf0ea;
   --white:       #ffffff;
@@ -417,8 +417,8 @@ img {
 }
 
 .fluxo-icon {
-  width: 56px;
-  height: 56px;
+  width: 70px;
+  height: 70px;
   background: var(--green-light);
   border-radius: 50%;
   display: flex;
@@ -434,7 +434,7 @@ img {
 }
 
 .fluxo-seta {
-  font-size: 20px;
+  font-size: 40px;
   color: var(--green);
   font-weight: 700;
   padding-bottom: 20px;
