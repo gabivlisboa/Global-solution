@@ -8,7 +8,7 @@
 }
 :root {
   --green:       #187B0F;
-  --green-dark:  #187B0F;
+  --green-dark:  #187B0f;
   --green-light: #E1F5EE;
   --bg:          #DCFCE7;
   --bg-alt:      #eaf0ea;
@@ -180,9 +180,11 @@ img {
 }
 
 .terra-img {
+ 
   width: 100%;
   height: 100%;
   object-fit: cover;
+  transform: scale(1.05);
 }
 /* Botões do hero */
 .btn-primario {
